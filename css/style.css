@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Italianno&display=swap');
+
+
+body { 
+background-color: blanchedalmond;
+}
+
+
+.heading {
+    text-align: center;
+    height: 100px;
+    font-family: 'Italianno';
+    font-size: 5rem;
+}
+
+
+   .main{
+  margin: 0 auto;
+width: 50%;
+   }
+
+
+
+
+img {
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+  }
+
+#ok{
+margin-left: 90%;
+
+}
+
+
+.buttom {
+    text-align: right;
+    font-family: 'Italianno';
+    font-size: 3rem;
+}
+
+.copyright {
+    text-align: left;
+    font-family: 'East Sea Dokdo';
+    font-size: 3rem;
+    color: chocolate;
+}
