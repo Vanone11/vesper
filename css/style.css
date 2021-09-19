@@ -17,9 +17,19 @@ background-color: blanchedalmond;
    .main{
   margin: 0 auto;
 width: 50%;
+       display:inline-block;
+
    }
 
+.left{
+    width: 25%;
+    display:inline-block;
 
+}
+
+.right{
+    width: 25%;
+    display:inline-block;
 
 
 img {
